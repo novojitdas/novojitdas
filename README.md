@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ### MY CP WEBSITE PROFILES
 [![TOPH](icons/toph.png)](https://toph.co/u/novojit)
-[![LeetCode](icons/leetcode.png)](https://toph.co/u/novojit)
-[![URI](icons/uri.png)](https://toph.co/u/novojit)
+[![LeetCode](icons/leetcode.png)](https://leetcode.com/novojitdas/)
+[![URI](icons/uri.png)](https://www.urionlinejudge.com.br/judge/en/profile/230780)
 [![CF](icons/cf.png)](https://toph.co/u/novojit)
-[![CS](icons/codesignal.png)](https://toph.co/u/novojit)
+[![CS](icons/codesignal.png)](https://app.codesignal.com/profile/novojit_d)
 
 
 
