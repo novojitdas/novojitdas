@@ -23,5 +23,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novojitdas&hide=php,html&show_icons=true&theme=chartreuse-dark" />
 </a>
 
+#
+
+### CONTACT WITH ME
+
+[![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/novojit-das-346843153/)
+[![GMAIL](icons/gmail.png)](mailto:novojitdas@gmail.com)
 
 
