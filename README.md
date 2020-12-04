@@ -30,4 +30,13 @@ Here are some ideas to get you started:
 [![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/novojit-das-346843153/)
 [![GMAIL](icons/gmail.png)](mailto:novojitdas@gmail.com)
 
+### MY CP WEBSITE PROFILES
+[![TOPH](icons/toph.png)](https://toph.co/u/novojit)
+[![LeetCode](icons/leetcode.png)](https://toph.co/u/novojit)
+[![URI](icons/uri.png)](https://toph.co/u/novojit)
+[![CF](icons/cf.png)](https://toph.co/u/novojit)
+[![CS](icons/codesignal.png)](https://toph.co/u/novojit)
+
+
+
 
