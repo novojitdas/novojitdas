@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### CONTACT WITH ME
 
 [![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/novojit-das-346843153/)
-[![GMAIL](icons/gmail.png)](mailto:novojitdas@gmail.com)
+[![GMAIL](icons/gmail.png)](mailto:)
 
 ### MY CP WEBSITE PROFILES
 [![TOPH](icons/toph.png)](https://toph.co/u/novojit)
