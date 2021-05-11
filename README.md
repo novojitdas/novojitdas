@@ -27,25 +27,19 @@ Here are some ideas to get you started:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vdrvntniwfcufoe4yfgxi7exmm&cover_image=true&theme=default)](https://github.com/novojitdas/spotify-github-profile)
 --> 
 
-<div id="textbox">
-  <p class="alignleft"> 
+<p style="text-align:left;">
 
-  ### CONTACT WITH ME
-
+### CONTACT WITH ME
 [![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/novojit-das-346843153/)
-  
-  </p>
-  <p class="alignright"> 
-  
-  ### MY CP WEBSITE PROFILES
+    <span style="float:right;">
+
+### MY CP WEBSITE PROFILES
 [![TOPH](icons/toph.png)](https://toph.co/u/novojit)
 [![LeetCode](icons/leetcode.png)](https://leetcode.com/novojitdas/)
 [![URI](icons/uri.png)](https://www.urionlinejudge.com.br/judge/en/profile/230780)
 [![CS](icons/codesignal.png)](https://app.codesignal.com/profile/novojit_d)
-
-
-  </p>
-</div>
+    </span>
+</p>
 
 ### CONTACT WITH ME
 
