@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![CS](icons/codesignal.png)](https://app.codesignal.com/profile/novojit_d)
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=novojitdas&theme=tokyonight&hide_border=true"/>
 </p>
 
