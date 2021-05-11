@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vdrvntniwfcufoe4yfgxi7exmm&cover_image=true&theme=default)](https://github.com/novojitdas/spotify-github-profile)
 
-#
+
 
 ### CONTACT WITH ME
 
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 [![CF](icons/cf.png)](https://toph.co/u/novojit)
 [![CS](icons/codesignal.png)](https://app.codesignal.com/profile/novojit_d)
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novojitdas&theme=tokyonight&hide_border=true"/>
+</p>
 
 
