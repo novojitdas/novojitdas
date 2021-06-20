@@ -1,3 +1,5 @@
+<img src="icons/Rainbow.gif" width="100%">
+
 ### Hi there 👋
 
 <!--
@@ -43,5 +45,5 @@ Here are some ideas to get you started:
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=novojitdas&theme=tokyonight&hide_border=true"/>
 </p>
-
+<img src="icons/Rainbow.gif" width="100%">
 
