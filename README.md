@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=novojitdas&show_icons=true&theme=chartreuse-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=novojitdas&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novojitdas&hide=php,html&show_icons=true&theme=chartreuse-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novojitdas&hide=php,html&show_icons=true&theme=chartreuse-dark" />
 </a>
 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vdrvntniwfcufoe4yfgxi7exmm&cover_image=true&theme=default)](https://github.com/novojitdas/spotify-github-profile)
 --> 
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
