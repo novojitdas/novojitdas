@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novojitdas&hide=php,html&show_icons=true&theme=chartreuse-dark" />
-</a>
-
-
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vdrvntniwfcufoe4yfgxi7exmm&cover_image=true&theme=default)](https://github.com/novojitdas/spotify-github-profile)
 --> 
@@ -56,5 +50,9 @@ Here are some ideas to get you started:
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=novojitdas&theme=tokyonight&hide_border=true"/>
 </p>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novojitdas&hide=php,html&show_icons=true&theme=chartreuse-dark" />
+</a>
 <img src="icons/Rainbow.gif" width="100%">
 
