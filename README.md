@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novojitdas&hide=php,html&show_icons=true&theme=chartreuse-dark" />
 </a>
+</br>
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vdrvntniwfcufoe4yfgxi7exmm&cover_image=true&theme=default)](https://github.com/novojitdas/spotify-github-profile)
