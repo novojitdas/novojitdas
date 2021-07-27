@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   
 </div>
 
+<img width="100%" src="icons/portfolio_about.png"/>
+
 ### CONTACT WITH ME
 
 [![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/novojit-das-346843153/)
