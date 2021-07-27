@@ -1,6 +1,6 @@
 <img src="icons/Rainbow.gif" width="100%">
 
-### Hi there 👋
+<img width="100%" src="icons/portfolio_about.png"/>
 
 <!--
 **novojitdas/novojitdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<img width="100%" src="icons/portfolio_about.png"/>
+
 
 ### CONTACT WITH ME
 
