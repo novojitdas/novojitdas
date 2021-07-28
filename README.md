@@ -1,6 +1,6 @@
 <img src="icons/Rainbow.gif" width="100%">
 
-<img width="100%" src="icons/portfolio_about.png"/>
+<a href="https://novojit.com"><img width="100%" src="icons/portfolio_about.png"/></a>
 
 <!--
 **novojitdas/novojitdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
