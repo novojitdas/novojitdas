@@ -1,4 +1,5 @@
 <img src="icons/Rainbow.gif" width="100%">
+<img src="https://komarev.com/ghpvc/?username=novojitdas&label=Profile%20views&color=0e75b6&style=social" alt="novojitdas" />
 
 <a href="https://novojit.com"><img width="100%" src="icons/portfolio_about.png"/></a>
 
