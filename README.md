@@ -42,9 +42,10 @@ Here are some ideas to get you started:
 ### :e-mail: CONTACT WITH ME
 
 <a href="https://www.linkedin.com/in/novojit-das-346843153/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href=""><img src=""></a>
+
 
 ### :computer: MY CP WEBSITE PROFILES
+
 [![TOPH](icons/toph.png)](https://toph.co/u/novojit)
 [![LeetCode](icons/leetcode.png)](https://leetcode.com/novojitdas/)
 [![URI](icons/uri.png)](https://www.urionlinejudge.com.br/judge/en/profile/230780)
