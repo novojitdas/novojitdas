@@ -36,15 +36,16 @@ Here are some ideas to get you started:
   
 </div>
 
+### :trophy: GITHUB PROFILE TROPHY
+[![trophy](https://github-profile-trophy.vercel.app/?username=novojitdas&theme=onedark)](https://github.com/novojitdas/github-profile-trophy)
 
-
-### CONTACT WITH ME
+### :e-mail: CONTACT WITH ME
 
 [![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/novojit-das-346843153/)
 <!--
 [![GMAIL](icons/gmail.png)](mailto:)
 -->
-### MY CP WEBSITE PROFILES
+### :computer: MY CP WEBSITE PROFILES
 [![TOPH](icons/toph.png)](https://toph.co/u/novojit)
 [![LeetCode](icons/leetcode.png)](https://leetcode.com/novojitdas/)
 [![URI](icons/uri.png)](https://www.urionlinejudge.com.br/judge/en/profile/230780)
