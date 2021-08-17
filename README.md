@@ -4,7 +4,7 @@
 <a href="https://novojit.com"><img width="100%" src="icons/portfolio_about.png"/></a>
 
 <!--
-**novojitdas/novojitdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**novojitdas/novojitdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile .
 
 Here are some ideas to get you started:
 
