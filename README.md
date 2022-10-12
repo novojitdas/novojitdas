@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novojitdas&hide=php,html,css,Jupyter-Notebook&show_icons=true&theme=chartreuse-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novojitdas&hide=php,html,css&exclude_repo=Computer-Vision&show_icons=true&theme=chartreuse-dark" />
 </a>
 <img src="icons/Rainbow.gif" width="100%">
 
